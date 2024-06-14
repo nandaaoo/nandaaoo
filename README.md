@@ -1,5 +1,4 @@
 ## WELCOME 👋
 
-Fernanda, nanda, fefe, como prefirir 
-
+Fernanda/nanda/fefe, como prefirir 
 - Estudo no Alura
